@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@hookform/resolvers": "2.9.0",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-hook-form": "7.31.3",
+    "typescript": "latest",
+    "zod": "3.17.3"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.8.2/docs/data/material/components/dialogs/CustomizedDialogs.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "name": "customizeddialogs-demo-material-ui-forked",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "version": "0.0.0"
+}
